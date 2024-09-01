@@ -1,11 +1,17 @@
  Name:JABEEN FATHIMA.N
+ 
  Company:CODTECH IT SOLUTIONS
+ 
  ID:CT08DS6736
+ 
  Domain:FRONTEND WEB DEVELOPMENT
+ 
  Duration:August to September 2024
+ 
  Mentor:MUZAMMIL
 
  Interactive Quiz Application
+ 
 This Interactive Quiz Application is a front-end web project designed to test users' knowledge on various topics through a series of multiple-choice questions. The application is built using HTML, CSS, and JavaScript, with a focus on creating a smooth and user-friendly experience.
 
 Features
