@@ -31,4 +31,13 @@ The quiz application can be easily customized to include different questions or 
 Conclusion
 This quiz application is a simple yet effective tool for testing knowledge on specific topics. It's an excellent example of how front-end development skills can be applied to create interactive and engaging web applications.
 
-![WhatsApp Image 2024-09-01 at 9 25 20 PM](https://github.com/user-attachments/assets/9f3fa105-57de-4512-bd3f-d46f9cae38fb)
+OUTPUT:
+
+![WhatsApp Image 2024-09-01 at 9 42 07 PM](https://github.com/user-attachments/assets/ba18e7f0-7952-4e7f-a22b-c1f584ad8f43)
+
+![WhatsApp Image 2024-09-01 at 9 42 54 PM](https://github.com/user-attachments/assets/38cbddfa-fbaa-4c5b-a3b2-2c9792692ed3)
+
+![WhatsApp Image 2024-09-01 at 9 42 22 PM](https://github.com/user-attachments/assets/e0bbe907-b8f0-46ed-a46a-3a5914f9e0d8)
+
+
+
