@@ -8,7 +8,7 @@
  
  Duration:August to September 2024
  
- Mentor:MUZAMMIL
+ Mentor:MUZAMMIL ahmed
 
  Interactive Quiz Application
  
